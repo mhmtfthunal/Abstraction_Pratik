@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SirketPersonel
+namespace Abstraction_Pratik
 {
     public abstract class Calisan
     {
